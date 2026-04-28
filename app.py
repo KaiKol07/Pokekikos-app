@@ -7,11 +7,11 @@ st.set_page_config(page_title="PokeKikos App", page_icon="🔥")
 
 # --- 1. CONSTANTES DE REFERENCIA ---
 REFERENCIAS = {
-    'hp':  (1, 70, 255), 
+    'hp':  (1, 70, 200), 
     'atk': (5, 78, 165), 
-    'def': (5, 72, 230), 
+    'def': (5, 72, 200), 
     'spa': (10, 71, 145),
-    'spd': (20, 70, 230),
+    'spd': (20, 70, 200),
     'spe': (5, 67, 160),
     'cha': (0, 150, 252)  # 255 - Capture Rate
 }
